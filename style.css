@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f0f9ff;
+  margin: 0;
+  padding: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-top: 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#contentArea {
+  margin-top: 30px;
+}
+
+.content iframe,
+.content img {
+  margin-top: 20px;
+  max-width: 100%;
+  border-radius: 12px;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.1rem;
+  margin-top: 20px;
+  color: #333;
+}
